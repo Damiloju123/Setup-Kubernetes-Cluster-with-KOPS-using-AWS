@@ -4,14 +4,14 @@
 
 This document explains how i successfully created a kubernetes cluster using KOPS.
 
-# Prerequisites:
-AWS EC2
-AWS Route 53
-AWS IAM
-AWS S3 Bucket
-KOPS 
-KUBECTL
-Go Daddy 
+# Prerequisites & Technologies:
+- AWS EC2
+- AWS Route 53
+- AWS IAM
+- AWS S3 Bucket
+- KOPS 
+- KUBECTL
+- Go Daddy 
 
 Step 1: Create an EC2 Ubuntu Instance, set up key pairs, set up security group.
 
