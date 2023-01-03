@@ -13,6 +13,7 @@ This document explains how i successfully created a kubernetes cluster using KOP
 - KUBECTL
 - Go Daddy 
 
+# Steps:
 Step 1: Create an EC2 Ubuntu Instance, set up key pairs, set up security group.
 
 Step 2: Create AWS S3 Bucket to store your clusters state, download credentials after.
